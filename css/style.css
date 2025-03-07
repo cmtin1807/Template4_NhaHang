@@ -8882,6 +8882,7 @@ h1, h2, h3, h4, h5,
       margin-bottom: 0;
       color: rgba(0, 0, 0, 0.8); }
   .menus .menu-img {
+    height: 275px;
     width: 50%; }
     @media (max-width: 767.98px) {
       .menus .menu-img {
